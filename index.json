@@ -1,0 +1,11 @@
+{
+  "org": "google-deepmind",
+  "repo": "dm_fast_mapping",
+  "versions": [
+    {
+      "commit": "6045a1d450e8f93e60b427f7b0b5b0485ba7919d",
+      "tag": "",
+      "parsed_at": "2026-11-06T08:54:38.065224+00:00"
+    }
+  ]
+}
