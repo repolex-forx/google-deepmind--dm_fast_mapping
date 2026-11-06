@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/google-deepmind/dm_fast_mapping/commit/6045a1d450e8f93e60b427f7b0b5b0485ba7919d",
       "git:hexsha": "6045a1d450e8f93e60b427f7b0b5b0485ba7919d",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-06T08:54:38.064818+00:00"
     }
   ]
 }
